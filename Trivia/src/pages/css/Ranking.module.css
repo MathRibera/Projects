@@ -1,0 +1,30 @@
+.backgrounds {
+  background-image: url('./images/27257322_7290753.jpg');
+  color: white;
+  height: 100vh;
+}
+
+.classificacao {
+  background-color: rgba(77, 75, 75, 0.75);
+  border-radius: 20px;
+  color: white;
+  margin: auto;
+  width: 250px;
+}
+
+.classificacao > h4 {
+  padding-top: 20px;
+}
+
+.classificacao > h3 {
+  padding-bottom: 20px;
+}
+
+.backgrounds > button {
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: large;
+  height: 30px;
+  width: 250px;
+}

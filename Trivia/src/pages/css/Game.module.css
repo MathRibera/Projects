@@ -1,0 +1,38 @@
+.backgrounds {
+  background-image: url('./images/27257322_7290753.jpg');
+  color: white;
+  height: 100vh;
+}
+
+.container {
+  align-items: center;
+  background-color: rgba(77, 75, 75, 0.75);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  margin-top: 10%;
+  padding-bottom: 20px;
+  width: 70%;
+}
+
+.category > h2 {
+  font-size: xxx-large;
+}
+
+.category > h3 {
+  font-size: x-large;
+}
+
+.buttons > button {
+  cursor: pointer;
+  height: 40px;
+  margin: 10px;
+  width: 130px;
+
+}
+
+.segundos {
+  font-size: x-large;
+}

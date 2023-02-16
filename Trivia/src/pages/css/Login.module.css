@@ -1,0 +1,59 @@
+.background {
+  align-items: center;
+  background-image: url('./images/27257322_7290753.jpg');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  margin: auto;
+}
+
+.trivia {
+  margin-bottom: 100px;
+  width: 500px;
+}
+
+.container {
+  align-items: center;
+  background-color: rgba(77, 75, 75, 0.75);
+  border-radius: 29px;
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  justify-content: center;
+  width: 400px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+}
+
+.inputs > label > input {
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+  margin: 1px;
+  width: 260px;
+}
+
+.inputs > label > input::placeholder {
+  text-align: center;
+}
+
+.buttons {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.buttons > button {
+  border: none;
+  cursor: pointer;
+  height: 30px;
+  margin-top: 2px;
+  width: 264px;
+}

@@ -1,0 +1,30 @@
+.backgrounds {
+  background-image: url('./images/27257322_7290753.jpg');
+  color: white;
+  font-size: x-large;
+  height: 100vh;
+}
+
+.playagain > button {
+  background-color: grey;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-size: large;
+  height: 30px;
+  margin-top: 5px;
+  width: 250px;
+}
+
+.ranking > button {
+  background-color: grey;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  font-size: large;
+  height: 30px;
+  margin-top: 5px;
+  width: 250px;
+}
